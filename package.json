@@ -1,0 +1,30 @@
+{
+  "name": "arg-schema",
+  "version": "1.0.0",
+  "description": "Helper for jQuery style arguments declaration",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/saparin/arg-schema"
+  },
+  "keywords": [
+    "jquery",
+    "type",
+    "arguments",
+    "helper"
+  ],
+  "author": "sergeya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saparin/arg-schema/issues"
+  },
+  "homepage": "https://github.com/saparin/arg-schema",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1"
+  }
+}
